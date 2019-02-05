@@ -1,0 +1,64 @@
+C:\Users\fased1690\AppData\Local\Temporary Projects\SedkiFinalProject\bin\Debug\SedkiFinalProject.exe
+C:\Users\fased1690\AppData\Local\Temporary Projects\SedkiFinalProject\bin\Debug\SedkiFinalProject.pdb
+C:\Users\fased1690\AppData\Local\Temporary Projects\SedkiFinalProject\bin\Debug\SedkiFinalProject.xml
+C:\Users\fased1690\AppData\Local\Temporary Projects\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.Form1.resources
+C:\Users\fased1690\AppData\Local\Temporary Projects\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.Resources.resources
+C:\Users\fased1690\AppData\Local\Temporary Projects\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.vbproj.GenerateResource.Cache
+C:\Users\fased1690\AppData\Local\Temporary Projects\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.exe
+C:\Users\fased1690\AppData\Local\Temporary Projects\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.xml
+C:\Users\fased1690\AppData\Local\Temporary Projects\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.pdb
+\\ccvifs.student.ugdsb.ed\home\students\fased1690\documents\visual studio 2010\Projects\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.exe
+\\ccvifs.student.ugdsb.ed\home\students\fased1690\documents\visual studio 2010\Projects\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.xml
+\\ccvifs.student.ugdsb.ed\home\students\fased1690\documents\visual studio 2010\Projects\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.pdb
+\\ccvifs.student.ugdsb.ed\home\students\fased1690\documents\visual studio 2010\Projects\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.exe
+\\ccvifs.student.ugdsb.ed\home\students\fased1690\documents\visual studio 2010\Projects\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.pdb
+\\ccvifs.student.ugdsb.ed\home\students\fased1690\documents\visual studio 2010\Projects\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.xml
+\\ccvifs.student.ugdsb.ed\home\students\fased1690\documents\visual studio 2010\Projects\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.pbMe.resources
+\\ccvifs.student.ugdsb.ed\home\students\fased1690\documents\visual studio 2010\Projects\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.Resources.resources
+\\ccvifs.student.ugdsb.ed\home\students\fased1690\documents\visual studio 2010\Projects\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.vbproj.GenerateResource.Cache
+E:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.exe
+E:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.xml
+E:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.pdb
+E:\Programming\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.exe
+E:\Programming\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.pdb
+E:\Programming\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.xml
+E:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.Resources.resources
+E:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.vbproj.GenerateResource.Cache
+J:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.exe
+J:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.xml
+J:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.pdb
+J:\Programming\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.exe
+J:\Programming\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.pdb
+J:\Programming\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.xml
+J:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.Resources.resources
+J:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.vbproj.GenerateResource.Cache
+J:\Programming\SedkiFinalProject - Copy\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.exe
+J:\Programming\SedkiFinalProject - Copy\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.xml
+J:\Programming\SedkiFinalProject - Copy\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.pdb
+J:\Programming\SedkiFinalProject - Copy\SedkiFinalProject\bin\Debug\SedkiFinalProject.exe
+J:\Programming\SedkiFinalProject - Copy\SedkiFinalProject\bin\Debug\SedkiFinalProject.pdb
+J:\Programming\SedkiFinalProject - Copy\SedkiFinalProject\bin\Debug\SedkiFinalProject.xml
+J:\Programming\SedkiFinalProject - Copy\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.pbMe.resources
+J:\Programming\SedkiFinalProject - Copy\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.Resources.resources
+J:\Programming\SedkiFinalProject - Copy\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.vbproj.GenerateResource.Cache
+J:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.LoadScreen.resources
+J:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.form1.resources
+E:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.form1.resources
+E:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.LoadScreen.resources
+J:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.Rules.resources
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.exe
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.xml
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.pdb
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.exe
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.pdb
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\bin\Debug\SedkiFinalProject.xml
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.form1.resources
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.LoadScreen.resources
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.Resources.resources
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.Rules.resources
+C:\Users\fleapper\Documents\Fabio\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.vbproj.GenerateResource.Cache
+E:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.Rules.resources
+E:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.difficulty.resources
+J:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.difficulty.resources
+E:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.High.resources
+J:\Programming\SedkiFinalProject\SedkiFinalProject\obj\x86\Debug\SedkiFinalProject.High.resources
